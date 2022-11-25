@@ -1,6 +1,23 @@
-# Uaw Analysis
+<p align="center">
+    <img src="./img/uaw-logo.webp">
+    <br><br>
+    <h1 align="center">Uaw Analysis</h1>
+</p>
 
-## Objectives :dna:
+
+
+
+
+## [Contents](contents) :books:
+
+- [Objectives](objectives)
+    - [Base Salary Increase](bsi) and [Yearly Salary Increase](ysi)
+    - [Standardized Salary Increase](ssi) or [Localized Salary Increase](lsi)
+    - [Analysis](analysis)
+- [Numbers](numbers)
+- [Todo](todo)
+
+## [Objectives](objectives) :rocket:
 
 The objective of this repository is to analyze the available data to inform the Uaw bargaining teams accross our 10 campuses
 - Berkeley
@@ -15,6 +32,8 @@ The objective of this repository is to analyze the available data to inform the 
 - Santa Cruz
 
 ---
+
+### [Base Salary Increase](bsi) and [Yearly Salary Increase](ysi)
 
 Our two goals is can be stated as follows:
 
@@ -32,6 +51,8 @@ A yearly recurring percent increase in salary to reflect the the corresponding y
 > If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
 
 ---
+
+### [Standardized Salary Increase](ssi) or [Localized Salary Increase](lsi)
 
 There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
 
@@ -68,6 +89,8 @@ Different **Base Salary Increase** and **Yearly Salary Increase** are applied to
 </table>
 
 ---
+
+### [Analysis](analysis)
 
 By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
     
@@ -106,7 +129,7 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-## Numbers :chart_with_upwards_trend:
+## [Numbers](numbers) :chart_with_upwards_trend:
 
 ### I. Base Salary Increase
 
@@ -146,7 +169,7 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-## Todo :pushpin:
+## [Todo](todo) :pushpin:
 
 - [ ] Find alternative measures to quantify the cost of living accross campuses (e.g., CPI, 2BDR)
 - [ ] Compare local v. standardized adjusted cost of living
