@@ -23,9 +23,11 @@ If the second condition is met but the first condition is not met, we will be co
 This poses the question of how to determine **how** and by **how much** we should increase each of these.
 - How?
     - **Standardized**
+
     The same **Base Salary Increase** and **Base Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
 
     - **Localized**
+
     Different **Base Salary Increase** and **Base Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
 
 - How much?
@@ -33,10 +35,10 @@ This poses the question of how to determine **how** and by **how much** we shoul
 
 Thus, the questions that follow are:
 
-1. What should be the **Base Salary Increase**?
-2. What should be the **Yearly Salary Increase**?
-3. Should the **Base Salary Increase** be **Localized** or **Standardized**?
-3. Should the **Yearly Salary Increase** be **Localized** or **Standardized**?
+1. Should the **Base Salary Increase** be **Localized** or **Standardized**?
+2. Should the **Yearly Salary Increase** be **Localized** or **Standardized**?
+3. What should the **Base Salary Increase** be?
+4. What should the **Yearly Salary Increase** be?
 
 Our option can be visualized as follows:
 
