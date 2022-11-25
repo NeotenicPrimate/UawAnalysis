@@ -6,12 +6,12 @@
 
 ## [Contents](contents) :books:
 
-- [Objectives](objectives)
-    - [Base Salary Increase](bsi) and [Yearly Salary Increase](ysi)
-    - [Standardized Salary Increase](ssi) or [Localized Salary Increase](lsi)
-    - [Analysis](analysis)
-- [Numbers](numbers)
-- [Todo](todo)
+- [Objectives](#objectives)
+    - [Base Salary Increase](#bsi) and [Yearly Salary Increase](#ysi)
+    - [Standardized Salary Increase](#ssi) or [Localized Salary Increase](#lsi)
+    - [Analysis](#analysis)
+- [Numbers](#numbers)
+- [Todo](#todo)
 
 ## [Objectives](#objectives) :rocket:
 
