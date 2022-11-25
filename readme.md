@@ -11,7 +11,8 @@
     - [Yearly Salary Increase](#yearly-salary-increase)
     - [Standardized Increase](#standardized-increase) 
     - [Localized Increase](#localized-increase)
-    - [Analysis](#analysis)
+- [Analysis](#analysis)
+    - [UC Housing](#uc-housing)
 - [Current Numbers](#current-numbers)
 - [Todo](#todo)
 
@@ -89,8 +90,10 @@ Different **Base Salary Increase** and **Yearly Salary Increase** are applied to
 <h3>&nbsp;&nbsp;Analysis</h3>
 
 By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
-    
-- Refer to the [analysis](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/usbls_api.ipynb)
+
+1. Based on the [UC Housing Data](#uc-housing)
+
+- [Here](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/analaysis/uc_housing.ipynb)
 
 ---
 
