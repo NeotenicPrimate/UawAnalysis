@@ -4,26 +4,14 @@
     <h1 align="center">Analysis Team</h1>
 </p>
 
-<h3>&nbsp;&nbsp;Contents :books:</h3>
 
-- [Objectives](#objectives)
-    - [Base Salary Increase](#base-salary-increase)
-    - [Yearly Salary Increase](#yearly-salary-increase)
-    - [Standardized Increase](#standardized-increase) 
-    - [Localized Increase](#localized-increase)
-- [Analysis](#analysis)
-    - [UC Housing](#uc-housing)
-- [Current Numbers](#current-numbers)
-- [Todo](#todo)
-
----
-
-<h3>&nbsp;&nbsp;Objectives</h3>
+Objectives 🚀
+============
 
 The objective of this repository is to analyze the available data to inform the Uaw bargaining teams accross our 10 campuses
 - Berkeley
 - Davis
-- Irvine, 
+- Irvine 
 - Los Angeles
 - Merced
 - Riverside
@@ -32,30 +20,30 @@ The objective of this repository is to analyze the available data to inform the 
 - Santa Barbara
 - Santa Cruz
 
----
-
 Our two goals is can be stated as follows:
 
-<h3>&nbsp;&nbsp;Base Salary Increase</h3>
-
-1. **Salaries must match the current cost of living**.
-
-    A one time increase of the current salaries to reflect accurately the cost of living.
-
-<h3>&nbsp;&nbsp;Yearly Salary Increase</h3>
-
-2. **Salaries must be adjusted yearly to reflect the corresponding increase in cost of living**.
-
-   A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living.
+There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
 
 > If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road. <br>
 > If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
 
----
+Definitions 📖
+===========
 
-There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
+Base Salary Increase
+--------------------
 
-<h3>&nbsp;&nbsp;Standardized Increase</h3>
+**Salaries must match the current cost of living**. <br>
+A one time increase of the current salaries to reflect accurately the cost of living.
+
+Yearly Salary Increase
+----------------------
+
+**Salaries must be adjusted yearly to reflect the corresponding increase in cost of living**. <br>
+A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living.
+
+Standardized Increase
+---------------------
 
 The same **Base Salary Increase** and **Yearly Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
 
@@ -70,7 +58,8 @@ The same **Base Salary Increase** and **Yearly Salary Increase** are applied to 
     </tr>
 </table>
 
-<h3>&nbsp;&nbsp;Localized Increase</h3>
+Localized Increase
+------------------
 
 Different **Base Salary Increase** and **Yearly Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
 
@@ -85,17 +74,23 @@ Different **Base Salary Increase** and **Yearly Salary Increase** are applied to
     </tr>
 </table>
 
----
-
-<h3>&nbsp;&nbsp;Analysis</h3>
+Analysis 📈
+========
 
 By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
 
-1. Based on the [UC Housing Data](#uc-housing)
+UC Housing
+----------
 
-    - This analysis can be found [here](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/analysis/uc_housing.ipynb)
+- This analysis can be found [here](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/analysis/uc_housing.ipynb).
 
----
+U.S. Bureau of Labor Statistics
+-------------------------------
+
+- This analysis can be found [here](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/analysis/usbls_api.ipynb).
+
+Summary 📎
+=======
 
 Thus, to summarize, our questions are:
 
@@ -128,9 +123,8 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-<h3>&nbsp;&nbsp;Current Numbers</h3>
-
-### I. Base Salary Increase
+Current Numbers 📋
+===============
 
 <table>
     <tr>
@@ -151,8 +145,6 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-### 2. Yearly Salary Increase
-
 <table>
     <tr>
         <th>Current Yearly Increase</th>
@@ -168,7 +160,8 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-<h3>&nbsp;&nbsp;Todo</h3>
+Todo 📌
+====
 
 - [ ] Find alternative measures to quantify the cost of living accross campuses (e.g., CPI, 2BDR)
 - [ ] Compare local v. standardized adjusted cost of living
