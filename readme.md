@@ -17,20 +17,20 @@ A one time increase of the current salaries to relect accurately the cost of liv
 This will henceforth be refered to as **Yearly Salary Increase** :pushpin: <br>
 A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living
 
-If the first condition is met but the second condition is not met, we will just be kicking the bottle down the road. <br>
-If the second condition is met but the first condition is not met, we will be constantly chasing the unatainable cost of living index.
+If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road. <br>
+If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
 
-This poses the question of how to determine **how** and by **how much** we should increase each of these.
-- How?
+This poses the questions:
+- How do we implement the **Base Salary Increase** and **Base Salary Increase**?
     - **Standardized**
 
-    The same **Base Salary Increase** and **Base Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
+    The same **Base Salary Increase** and **Yearly Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
 
     - **Localized**
 
-    Different **Base Salary Increase** and **Base Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
+    Different **Base Salary Increase** and **Yearly Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
 
-- How much?
+- By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
     - See [[analysis]]
 
 Thus, the questions that follow are:
