@@ -9,15 +9,15 @@ Our goal is can be stated as follows:
 
 1. **Salaries must match the current cost of living**
 
-This will henceforth be refered to as **Base Salary Increase** :pushpin:
+This will henceforth be refered to as **Base Salary Increase** :pushpin: <br>
 A one time increase of the current salaries to relect accurately the cost of living
 
 2. **Salaries must be adjusted yearly to reflect the corresponding increase in cost of living**
 
-This will henceforth be refered to as **Yearly Salary Increase** :pushpin:
+This will henceforth be refered to as **Yearly Salary Increase** :pushpin: <br>
 A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living
 
-If the first condition is met but the second condition is not met, we will just be kicking the bottle down the road.
+If the first condition is met but the second condition is not met, we will just be kicking the bottle down the road. <br>
 If the second condition is met but the first condition is not met, we will be constantly chasing the unatainable cost of living index.
 
 This poses the question of how to determine **how** and by **how much** we should increase each of these.
