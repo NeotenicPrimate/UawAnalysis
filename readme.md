@@ -112,7 +112,7 @@ For each of thes two possible options:
 
 ### 1. Standardized
 
-The same **Base Salary Increase** and **Base Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
+The same **Base Salary Increase** and **Yearly Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
 
 **Pros**:
 - Ease of implementation
@@ -122,7 +122,7 @@ The same **Base Salary Increase** and **Base Salary Increase** are applied to al
 
 ### 2. Localized
 
-Different **Base Salary Increase** and **Base Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
+Different **Base Salary Increase** and **Yearly Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
 
 **Pros**:
 - To each according to their need
