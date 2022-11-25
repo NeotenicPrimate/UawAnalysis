@@ -4,10 +4,6 @@
     <h1 align="center">Uaw Analysis</h1>
 </p>
 
-
-
-
-
 ## [Contents](contents) :books:
 
 - [Objectives](objectives)
