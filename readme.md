@@ -20,44 +20,58 @@ Our two goals is can be stated as follows:
 
 1. **Salaries must match the current cost of living**
 
-This will henceforth be refered to as **Base Salary Increase** :pushpin: <br>
-A one time increase of the current salaries to relect accurately the cost of living
+This will henceforth be refered to as **Base Salary Increase**.
+A one time increase of the current salaries to reflect accurately the cost of living.
 
 2. **Salaries must be adjusted yearly to reflect the corresponding increase in cost of living**
 
-This will henceforth be refered to as **Yearly Salary Increase** :pushpin: <br>
-A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living
+This will henceforth be refered to as **Yearly Salary Increase**.
+A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living.
 
-If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road. <br>
-If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
+> If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road.
+> If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
 
 ---
 
-This poses the questions:
-- How do we implement the **Base Salary Increase** and **Base Salary Increase**?
+There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
 
-    **1. Standardized**
+**1. Standardized Increase**
 
-    The same **Base Salary Increase** and **Yearly Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
+The same **Base Salary Increase** and **Yearly Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
+
+<table>
+    <tr>
+        <th>Pros</th>
+        <th>Cons</th>
+    </tr>
+    <tr>
+        <td>Ease of implementation</td>
+        <td>Campuses benefit differentially</td>
+    </tr>
+</table>
+
+
+
+**2. Localized Increase**
+
+Different **Base Salary Increase** and **Yearly Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
+
+<table>
+    <tr>
+        <th>Pros</th>
+        <th>Cons</th>
+    </tr>
+    <tr>
+        <td>To each according to their need</td>
+        <td>Difficulty of implementation</td>
+    </tr>
+</table>
+
+---
+
+By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
     
-    **Pros**:
-    - Ease of implementation
-
-    **Cons**:
-    - Campuses benefit differentially
-
-    **2. Localized**
-
-    Different **Base Salary Increase** and **Yearly Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
-    
-    **Pros**:
-    - To each according to their need
-
-    **Cons**:
-    - Difficulty of implementation
-
-- By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
-    - See [[analysis]]
+- Refer to the [[analysis]].
 
 ---
 
@@ -82,23 +96,19 @@ Our option can be visualized as follows:
     <tr>
         <th rowspan=2 colspan=1>Yearly Salary Increase</th>
         <th rowspan=1>Localized</th>
-        <td rowspan=1></td>
-        <td rowspan=1></td>
+        <td rowspan=1> <p>&#128204;</p> </td>
+        <td rowspan=1> <p>&#128204;</p> </td>
     </tr>
     <tr>
         <th rowspan="1">Standardized</th>
-        <td rowspan="1"></td>
-        <td rowspan="1"></td>
+        <td rowspan="1"> <p>&#128204;</p> </td>
+        <td rowspan="1"> <p>&#128204;</p> </td>
     </tr>
 </table>
 
-## Definitions :books:
+## Numbers :chart_with_upwards_trend:
 
-Let's define each of these terms used in the table above.
-
-### 1. Base Salary Increase
-
-A one time increase of the current salaries to relect accurately the cost of living
+### I. Base Salary Increase
 
 <table>
     <tr>
@@ -121,8 +131,6 @@ A one time increase of the current salaries to relect accurately the cost of liv
 
 ### 2. Yearly Salary Increase
 
-A yearly percent increase in salary to reflect the the corresponding yearly increase in the cost of living
-
 <table>
     <tr>
         <th>Current Yearly Increase</th>
@@ -131,9 +139,9 @@ A yearly percent increase in salary to reflect the the corresponding yearly incr
     <tr>
         <th>Proposed Yearly Increase</th>
         <td> 
-            <b>1.</b> Index based yearly change <br>
-            <b>2.</b> 7% yearly <br>
-            <b>3.</b> 7% first year, 3% subsequent years <br>
+            <b>1.</b> Index based yearly increase <br>
+            <b>2.</b> Fixed 7% yearly <br>
+            <b>3.</b> Fixed 7% first year, fixed 3% subsequent years <br>
         </td>
     </tr>
 </table>
