@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="./img/uaw-logo.webp">
+    <img src="./img/uaw-logo.webp" width="400" height="300">
     <br><br>
-    <h1 align="center">Uaw Analysis</h1>
+    <h1 align="center">Analysis Team</h1>
 </p>
 
 ## [Contents](contents) :books:
