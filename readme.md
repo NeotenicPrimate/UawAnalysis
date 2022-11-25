@@ -21,11 +21,15 @@ The objective of this repository is to analyze the available data to inform the 
 - Santa Cruz
 
 Our two goals is can be stated as follows:
+- Base Salary Increase
+- Yearly Salary Increase
 
-There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
+There are two ways we can implement the **Base Salary Increase** and the **Yearly Salary Increase**:
+- Standardized
+- Localized
 
-> If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road. <br>
-> If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
+> A Base Salary Increase without a Yearly Salary Increase will cause salaries to fall behind the cost of living over time. <br>
+> A Yearly Salary Increase without a Base Salary Increase will cause salaries to lag behind the cost of living over time. <br>
 
 Definitions 📖
 ===========
