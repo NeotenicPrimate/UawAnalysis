@@ -93,7 +93,7 @@ By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
 
 1. Based on the [UC Housing Data](#uc-housing)
 
-- [Here](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/analaysis/uc_housing.ipynb)
+    - This analysis can be found [here](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/analysis/uc_housing.ipynb)
 
 ---
 
