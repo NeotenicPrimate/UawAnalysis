@@ -13,7 +13,7 @@
 - [Numbers](numbers)
 - [Todo](todo)
 
-## [Objectives](objectives) :rocket:
+## [Objectives](#objectives) :rocket:
 
 The objective of this repository is to analyze the available data to inform the Uaw bargaining teams accross our 10 campuses
 - Berkeley
@@ -29,7 +29,7 @@ The objective of this repository is to analyze the available data to inform the 
 
 ---
 
-### [Base Salary Increase](bsi) and [Yearly Salary Increase](ysi)
+### [Base Salary Increase](#bsi) and [Yearly Salary Increase](#ysi)
 
 Our two goals is can be stated as follows:
 
@@ -48,7 +48,7 @@ A yearly recurring percent increase in salary to reflect the the corresponding y
 
 ---
 
-### [Standardized Salary Increase](ssi) or [Localized Salary Increase](lsi)
+### [Standardized Salary Increase](#ssi) or [Localized Salary Increase](#lsi)
 
 There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
 
@@ -86,7 +86,7 @@ Different **Base Salary Increase** and **Yearly Salary Increase** are applied to
 
 ---
 
-### [Analysis](analysis)
+### [Analysis](#analysis)
 
 By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
     
@@ -125,7 +125,7 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-## [Numbers](numbers) :chart_with_upwards_trend:
+## [Numbers](#numbers) :chart_with_upwards_trend:
 
 ### I. Base Salary Increase
 
@@ -165,7 +165,7 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-## [Todo](todo) :pushpin:
+## [Todo](#todo) :pushpin:
 
 - [ ] Find alternative measures to quantify the cost of living accross campuses (e.g., CPI, 2BDR)
 - [ ] Compare local v. standardized adjusted cost of living
