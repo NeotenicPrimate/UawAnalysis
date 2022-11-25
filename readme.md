@@ -4,16 +4,20 @@
     <h1 align="center">Analysis Team</h1>
 </p>
 
-## [Contents](contents) :books:
+<h3>&nbsp;&nbsp;Contents :books:</h3>
 
 - [Objectives](#objectives)
-    - [Base Salary Increase](#bsi) and [Yearly Salary Increase](#ysi)
-    - [Standardized Salary Increase](#ssi) or [Localized Salary Increase](#lsi)
+    - [Base Salary Increase](#base-salary-increase)
+    - [Yearly Salary Increase](#yearly-salary-increase)
+    - [Standardized Increase](#standardized-increase) 
+    - [Localized Increase](#localized-increase)
     - [Analysis](#analysis)
-- [Numbers](#numbers)
+- [Current Numbers](#current-numbers)
 - [Todo](#todo)
 
-## [Objectives](#objectives) :rocket:
+---
+
+<h3>&nbsp;&nbsp;Objectives</h3>
 
 The objective of this repository is to analyze the available data to inform the Uaw bargaining teams accross our 10 campuses
 - Berkeley
@@ -29,30 +33,28 @@ The objective of this repository is to analyze the available data to inform the 
 
 ---
 
-### [Base Salary Increase](#bsi) and [Yearly Salary Increase](#ysi)
-
 Our two goals is can be stated as follows:
 
-1. **Salaries must match the current cost of living**
+<h3>&nbsp;&nbsp;Base Salary Increase</h3>
 
-This will henceforth be refered to as **Base Salary Increase**.
-A one time increase of the current salaries to reflect accurately the cost of living.
+1. **Salaries must match the current cost of living**.
 
-2. **Salaries must be adjusted yearly to reflect the corresponding increase in cost of living**
+    A one time increase of the current salaries to reflect accurately the cost of living.
 
-This will henceforth be refered to as **Yearly Salary Increase**.
-A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living.
+<h3>&nbsp;&nbsp;Yearly Salary Increase</h3>
 
-> If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road.
+2. **Salaries must be adjusted yearly to reflect the corresponding increase in cost of living**.
+
+   A yearly recurring percent increase in salary to reflect the the corresponding yearly increase in the cost of living.
+
+> If the first condition is met but the second condition is not met, salaries will not keep up with the increasing cost of living and we will just be kicking the bottle down the road. <br>
 > If the second condition is met but the first condition is not met, salaries will be chasing the increasing cost of living but will never catch up.
 
 ---
 
-### [Standardized Salary Increase](#ssi) or [Localized Salary Increase](#lsi)
-
 There are two ways we can implement the **Base Salary Increase** and the **Base Salary Increase**
 
-**1. Standardized Increase**
+<h3>&nbsp;&nbsp;Standardized Increase</h3>
 
 The same **Base Salary Increase** and **Yearly Salary Increase** are applied to all campuses based on an aggregate cost of living index agreed upon by both parties
 
@@ -67,9 +69,7 @@ The same **Base Salary Increase** and **Yearly Salary Increase** are applied to 
     </tr>
 </table>
 
-
-
-**2. Localized Increase**
+<h3>&nbsp;&nbsp;Localized Increase</h3>
 
 Different **Base Salary Increase** and **Yearly Salary Increase** are applied to different campuses based on cost of living indices agreed upon by both parties
 
@@ -86,11 +86,11 @@ Different **Base Salary Increase** and **Yearly Salary Increase** are applied to
 
 ---
 
-### [Analysis](#analysis)
+<h3>&nbsp;&nbsp;Analysis</h3>
 
 By how much does the **Base Salary Increase** and **Yearly Salary Increase**?
     
-- Refer to the [[analysis]].
+- Refer to the [analysis](https://github.com/NeotenicPrimate/UawAnalysis/blob/main/usbls_api.ipynb)
 
 ---
 
@@ -125,7 +125,7 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-## [Numbers](#numbers) :chart_with_upwards_trend:
+<h3>&nbsp;&nbsp;Current Numbers</h3>
 
 ### I. Base Salary Increase
 
@@ -165,7 +165,7 @@ Our option can be visualized as follows:
     </tr>
 </table>
 
-## [Todo](#todo) :pushpin:
+<h3>&nbsp;&nbsp;Todo</h3>
 
 - [ ] Find alternative measures to quantify the cost of living accross campuses (e.g., CPI, 2BDR)
 - [ ] Compare local v. standardized adjusted cost of living
