@@ -176,7 +176,7 @@ Post-Graduate Population
     </tr>
     <tr>
         <td> 
-            <a href="https://en.wikipedia.org/wiki/University_of_California,_Irvine">Irvine (2019): </a>
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Irvine">Irvine (2019)</a>
         </td>
         <td> 5,849 </td>
     </tr>
@@ -245,7 +245,9 @@ UC Budget
 
 <table>
     <tr>
-        <th>[Total](https://en.wikipedia.org/wiki/University_of_California)</th>
+        <th>
+            <a href="https://en.wikipedia.org/wiki/University_of_California">Total</a>
+        </th>
         <td> $43.9 billion (2020–2021) </td>
     </tr>
 </table>
