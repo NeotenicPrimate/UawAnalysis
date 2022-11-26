@@ -1,0 +1,59 @@
+rent50_0,rent50_1,rent50_2,rent50_3,rent50_4,county,state_code,county_name,area_name,town_name,state_abrev,year
+963,1168,1469,2051,2517,1,6,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",Alameda County,CA,2013
+726,737,997,1242,1609,3,6,Alpine County,"Alpine County, CA",Alpine County,CA,2013
+702,872,1180,1566,1906,5,6,Amador County,"Amador County, CA",Amador County,CA,2013
+564,707,931,1329,1649,7,6,Butte County,"Chico, CA MSA",Butte County,CA,2013
+708,771,973,1434,1723,9,6,Calaveras County,"Calaveras County, CA",Calaveras County,CA,2013
+584,588,795,1171,1408,11,6,Colusa County,"Colusa County, CA",Colusa County,CA,2013
+963,1168,1469,2051,2517,13,6,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",Contra Costa County,CA,2013
+671,676,914,1347,1470,15,6,Del Norte County,"Del Norte County, CA",Del Norte County,CA,2013
+717,855,1073,1581,1900,17,6,El Dorado County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",El Dorado County,CA,2013
+709,737,931,1308,1527,19,6,Fresno County,"Fresno, CA MSA",Fresno County,CA,2013
+595,599,811,1170,1436,21,6,Glenn County,"Glenn County, CA",Glenn County,CA,2013
+702,771,1040,1533,1783,23,6,Humboldt County,"Humboldt County, CA",Humboldt County,CA,2013
+548,667,862,1270,1527,25,6,Imperial County,"El Centro, CA MSA",Imperial County,CA,2013
+718,747,889,1310,1575,27,6,Inyo County,"Inyo County, CA",Inyo County,CA,2013
+649,653,855,1254,1514,29,6,Kern County,"Bakersfield-Delano, CA MSA",Kern County,CA,2013
+516,611,827,1176,1236,31,6,Kings County,"Hanford-Corcoran, CA MSA",Kings County,CA,2013
+681,685,927,1366,1380,33,6,Lake County,"Lake County, CA",Lake County,CA,2013
+750,793,1073,1500,1506,35,6,Lassen County,"Lassen County, CA",Lassen County,CA,2013
+988,1195,1542,2085,2323,37,6,Los Angeles County,"Los Angeles-Long Beach, CA HUD Metro FMR Area",Los Angeles County,CA,2013
+689,694,939,1364,1496,39,6,Madera County,"Madera-Chowchilla, CA MSA",Madera County,CA,2013
+1205,1569,1979,2688,3250,41,6,Marin County,"San Francisco, CA HUD Metro FMR Area",Marin County,CA,2013
+678,689,932,1161,1504,43,6,Mariposa County,"Mariposa County, CA",Mariposa County,CA,2013
+753,806,1064,1466,1772,45,6,Mendocino County,"Mendocino County, CA",Mendocino County,CA,2013
+536,621,817,1204,1447,47,6,Merced County,"Merced, CA MSA",Merced County,CA,2013
+426,493,585,862,1029,49,6,Modoc County,"Modoc County, CA",Modoc County,CA,2013
+969,1107,1313,1635,2119,51,6,Mono County,"Mono County, CA",Mono County,CA,2013
+929,1045,1316,1919,2146,53,6,Monterey County,"Salinas, CA MSA",Monterey County,CA,2013
+835,1047,1401,1999,2006,55,6,Napa County,"Napa, CA MSA",Napa County,CA,2013
+825,830,1100,1621,1874,57,6,Nevada County,"Nevada County, CA",Nevada County,CA,2013
+1126,1294,1621,2268,2525,59,6,Orange County,"Orange County, CA HUD Metro FMR Area",Orange County,CA,2013
+717,855,1073,1581,1900,61,6,Placer County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",Placer County,CA,2013
+614,763,1032,1285,1697,63,6,Plumas County,"Plumas County, CA",Plumas County,CA,2013
+763,879,1116,1577,1924,65,6,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",Riverside County,CA,2013
+717,855,1073,1581,1900,67,6,Sacramento County,"Sacramento--Arden-Arcade--Roseville, CA HUD Metro FMR Area",Sacramento County,CA,2013
+749,931,1259,1855,2230,69,6,San Benito County,"San Benito County, CA HUD Metro FMR Area",San Benito County,CA,2013
+763,879,1116,1577,1924,71,6,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",San Bernardino County,CA,2013
+1037,1140,1495,2174,2648,73,6,San Diego County,"San Diego-Carlsbad-San Marcos, CA MSA",San Diego County,CA,2013
+1205,1569,1979,2688,3250,75,6,San Francisco County,"San Francisco, CA HUD Metro FMR Area",San Francisco County,CA,2013
+676,806,1057,1558,1872,77,6,San Joaquin County,"Stockton, CA MSA",San Joaquin County,CA,2013
+814,941,1215,1790,1867,79,6,San Luis Obispo County,"San Luis Obispo-Paso Robles, CA MSA",San Luis Obispo County,CA,2013
+1205,1569,1979,2688,3250,81,6,San Mateo County,"San Francisco, CA HUD Metro FMR Area",San Mateo County,CA,2013
+1157,1330,1594,2130,2466,83,6,Santa Barbara County,"Santa Barbara-Santa Maria-Goleta, CA MSA",Santa Barbara County,CA,2013
+1160,1357,1730,2440,2766,85,6,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",Santa Clara County,CA,2013
+1039,1257,1700,2191,2444,87,6,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",Santa Cruz County,CA,2013
+796,819,1029,1516,1690,89,6,Shasta County,"Redding, CA MSA",Shasta County,CA,2013
+608,618,836,1232,1349,91,6,Sierra County,"Sierra County, CA",Sierra County,CA,2013
+573,683,872,1271,1431,93,6,Siskiyou County,"Siskiyou County, CA",Siskiyou County,CA,2013
+787,991,1241,1829,2174,95,6,Solano County,"Vallejo-Fairfield, CA MSA",Solano County,CA,2013
+926,1080,1414,2084,2443,97,6,Sonoma County,"Santa Rosa-Petaluma, CA MSA",Sonoma County,CA,2013
+628,775,994,1465,1700,99,6,Stanislaus County,"Modesto, CA MSA",Stanislaus County,CA,2013
+556,670,858,1240,1468,101,6,Sutter County,"Yuba City, CA MSA",Sutter County,CA,2013
+515,639,865,1220,1399,103,6,Tehama County,"Tehama County, CA",Tehama County,CA,2013
+648,652,872,1285,1544,105,6,Trinity County,"Trinity County, CA",Trinity County,CA,2013
+619,635,826,1217,1415,107,6,Tulare County,"Visalia-Porterville, CA MSA",Tulare County,CA,2013
+655,795,1076,1586,1591,109,6,Tuolumne County,"Tuolumne County, CA",Tuolumne County,CA,2013
+1003,1198,1609,2222,2572,111,6,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",Ventura County,CA,2013
+802,866,1170,1724,2011,113,6,Yolo County,"Yolo, CA HUD Metro FMR Area",Yolo County,CA,2013
+556,670,858,1240,1468,115,6,Yuba County,"Yuba City, CA MSA",Yuba County,CA,2013

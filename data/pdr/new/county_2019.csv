@@ -1,0 +1,59 @@
+rent50_0,rent50_1,rent50_2,rent50_3,rent50_4,county,state_code,county_name,area_name,town_name,state_abrev,year
+750,762,992,1429,1700,29,6,Kern County,"Bakersfield, CA MSA",Kern County,CA,2019
+859,951,1216,1758,2042,7,6,Butte County,"Chico, CA MSA",Butte County,CA,2019
+644,772,1003,1312,1744,25,6,Imperial County,"El Centro, CA MSA",Imperial County,CA,2019
+710,818,1016,1449,1684,19,6,Fresno County,"Fresno, CA MSA",Fresno County,CA,2019
+828,864,1051,1520,1660,31,6,Kings County,"Hanford-Corcoran, CA MSA",Kings County,CA,2019
+1251,1494,1934,2593,2852,37,6,Los Angeles County,"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",Los Angeles County,CA,2019
+1534,1769,2208,3103,3581,59,6,Orange County,"Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",Orange County,CA,2019
+821,826,1093,1554,1724,39,6,Madera County,"Madera, CA MSA",Madera County,CA,2019
+613,720,888,1284,1550,47,6,Merced County,"Merced, CA MSA",Merced County,CA,2019
+764,849,1074,1534,1813,99,6,Stanislaus County,"Modesto, CA MSA",Stanislaus County,CA,2019
+1177,1385,1832,2649,2885,55,6,Napa County,"Napa, CA MSA",Napa County,CA,2019
+1237,1462,1926,2702,3240,111,6,Ventura County,"Oxnard-Thousand Oaks-Ventura, CA MSA",Ventura County,CA,2019
+698,803,1038,1501,1823,89,6,Shasta County,"Redding, CA MSA",Shasta County,CA,2019
+895,1068,1335,1861,2310,65,6,Riverside County,"Riverside-San Bernardino-Ontario, CA MSA",Riverside County,CA,2019
+895,1068,1335,1861,2310,71,6,San Bernardino County,"Riverside-San Bernardino-Ontario, CA MSA",San Bernardino County,CA,2019
+916,1040,1311,1896,2303,17,6,El Dorado County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",El Dorado County,CA,2019
+916,1040,1311,1896,2303,61,6,Placer County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",Placer County,CA,2019
+916,1040,1311,1896,2303,67,6,Sacramento County,"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",Sacramento County,CA,2019
+1036,1102,1458,2102,2561,113,6,Yolo County,"Yolo, CA HUD Metro FMR Area",Yolo County,CA,2019
+1177,1340,1665,2399,2571,53,6,Monterey County,"Salinas, CA MSA",Monterey County,CA,2019
+1422,1590,2068,2962,3632,73,6,San Diego County,"San Diego-Carlsbad, CA MSA",San Diego County,CA,2019
+1562,1892,2357,3243,3977,1,6,Alameda County,"Oakland-Fremont, CA HUD Metro FMR Area",Alameda County,CA,2019
+1562,1892,2357,3243,3977,13,6,Contra Costa County,"Oakland-Fremont, CA HUD Metro FMR Area",Contra Costa County,CA,2019
+2155,2667,3302,4326,4575,41,6,Marin County,"San Francisco, CA HUD Metro FMR Area",Marin County,CA,2019
+2155,2667,3302,4326,4575,75,6,San Francisco County,"San Francisco, CA HUD Metro FMR Area",San Francisco County,CA,2019
+2155,2667,3302,4326,4575,81,6,San Mateo County,"San Francisco, CA HUD Metro FMR Area",San Mateo County,CA,2019
+2062,2446,2999,4045,4642,85,6,Santa Clara County,"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",Santa Clara County,CA,2019
+1419,1429,1890,2733,3320,69,6,San Benito County,"San Benito County, CA HUD Metro FMR Area",San Benito County,CA,2019
+1130,1275,1645,2378,2889,79,6,San Luis Obispo County,"San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA",San Luis Obispo County,CA,2019
+1682,1979,2618,3479,3972,87,6,Santa Cruz County,"Santa Cruz-Watsonville, CA MSA",Santa Cruz County,CA,2019
+1480,1759,2058,2769,3207,83,6,Santa Barbara County,"Santa Maria-Santa Barbara, CA MSA",Santa Barbara County,CA,2019
+1334,1540,2008,2903,3509,97,6,Sonoma County,"Santa Rosa, CA MSA",Sonoma County,CA,2019
+743,875,1157,1673,2032,77,6,San Joaquin County,"Stockton-Lodi, CA MSA",San Joaquin County,CA,2019
+1052,1267,1544,2232,2708,95,6,Solano County,"Vallejo-Fairfield, CA MSA",Solano County,CA,2019
+741,746,987,1378,1628,107,6,Tulare County,"Visalia-Porterville, CA MSA",Tulare County,CA,2019
+711,715,931,1346,1635,101,6,Sutter County,"Yuba City, CA MSA",Sutter County,CA,2019
+711,715,931,1346,1635,115,6,Yuba County,"Yuba City, CA MSA",Yuba County,CA,2019
+704,787,1035,1478,1663,3,6,Alpine County,"Alpine County, CA",Alpine County,CA,2019
+847,853,1128,1631,1862,5,6,Amador County,"Amador County, CA",Amador County,CA,2019
+681,860,1001,1447,1758,9,6,Calaveras County,"Calaveras County, CA",Calaveras County,CA,2019
+636,770,934,1350,1641,11,6,Colusa County,"Colusa County, CA",Colusa County,CA,2019
+672,782,987,1370,1584,15,6,Del Norte County,"Del Norte County, CA",Del Norte County,CA,2019
+613,681,901,1129,1218,21,6,Glenn County,"Glenn County, CA",Glenn County,CA,2019
+710,816,1065,1540,1772,23,6,Humboldt County,"Humboldt County, CA",Humboldt County,CA,2019
+819,824,986,1328,1333,27,6,Inyo County,"Inyo County, CA",Inyo County,CA,2019
+663,790,1032,1492,1631,33,6,Lake County,"Lake County, CA",Lake County,CA,2019
+626,696,920,1330,1471,35,6,Lassen County,"Lassen County, CA",Lassen County,CA,2019
+713,792,1047,1439,1839,43,6,Mariposa County,"Mariposa County, CA",Mariposa County,CA,2019
+803,881,1166,1651,1877,45,6,Mendocino County,"Mendocino County, CA",Mendocino County,CA,2019
+524,582,770,1113,1237,49,6,Modoc County,"Modoc County, CA",Modoc County,CA,2019
+860,1012,1338,1719,2150,51,6,Mono County,"Mono County, CA",Mono County,CA,2019
+849,999,1321,1910,2158,57,6,Nevada County,"Nevada County, CA",Nevada County,CA,2019
+651,792,956,1256,1411,63,6,Plumas County,"Plumas County, CA",Plumas County,CA,2019
+932,1041,1369,1955,2200,91,6,Sierra County,"Sierra County, CA",Sierra County,CA,2019
+588,692,915,1260,1470,93,6,Siskiyou County,"Siskiyou County, CA",Siskiyou County,CA,2019
+624,658,871,1188,1198,103,6,Tehama County,"Tehama County, CA",Tehama County,CA,2019
+615,683,904,1307,1453,105,6,Trinity County,"Trinity County, CA",Trinity County,CA,2019
+701,846,1053,1449,1716,109,6,Tuolumne County,"Tuolumne County, CA",Tuolumne County,CA,2019

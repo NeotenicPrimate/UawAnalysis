@@ -130,6 +130,79 @@ Our option can be visualized as follows:
 Current Numbers 📋
 ===============
 
+Post-Graduate Population
+----------
+
+<table>
+    <tr>
+        <th>Capus</th>
+        <th>Post-Graduate Students</th>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">Berkley (2021)</a>
+        </td>
+        <td> 13,243 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_San_Francisco">San Francisco (2019)</a>
+        </td>
+        <td> 3,132 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz">Santa Cruz (2020)</a>
+        </td>
+        <td> 1,954 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Merced">Merced (2020)</a>
+        </td>
+        <td> 772 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles">Los Angeles (2021)</a>
+        </td>
+        <td> 13,994 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Davis">Davis (2020)</a>
+        </td>
+        <td> 8,869 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Irvine">Irvine (2019): </a>
+        </td>
+        <td> 5,849 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="://www.ucr.edu/about/ranks-and-facts">Riverside (2020)</a>
+        </td>
+        <td> 3,747 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_San_Diego">San Diego (2022)</a>
+        </td>
+        <td> 9,872 </td>
+    </tr>
+    <tr>
+        <td> 
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara">Santa Barbara (2020)</a>
+        </td>
+        <td> 2,983 </td>
+    </tr>
+</table>
+
+Base Salary
+-----------
+
 <table>
     <tr>
         <th>Current Net Salary</th>
@@ -149,6 +222,9 @@ Current Numbers 📋
     </tr>
 </table>
 
+Yearly Salary
+-------------
+
 <table>
     <tr>
         <th>Current Yearly Increase</th>
@@ -163,6 +239,21 @@ Current Numbers 📋
         </td>
     </tr>
 </table>
+
+UC Budget
+---------
+
+<table>
+    <tr>
+        <th>Total</th>
+        <td> $43.9 billion (2020–2021) </td>
+    </tr>
+</table>
+
+Recommendations 🤝
+==================
+
+- We are struggling to find relavent data to our problematic, the UC should quantify the cost of living around the institution.
 
 Todo 📌
 ====
