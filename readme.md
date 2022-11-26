@@ -182,7 +182,7 @@ Post-Graduate Population
     </tr>
     <tr>
         <td> 
-            <a href="://www.ucr.edu/about/ranks-and-facts">Riverside (2020)</a>
+            <a href="https://en.wikipedia.org/wiki/University_of_California,_Riverside">Riverside (2020)</a>
         </td>
         <td> 3,747 </td>
     </tr>
@@ -245,7 +245,7 @@ UC Budget
 
 <table>
     <tr>
-        <th>Total</th>
+        <th>[Total](https://en.wikipedia.org/wiki/University_of_California)</th>
         <td> $43.9 billion (2020–2021) </td>
     </tr>
 </table>
