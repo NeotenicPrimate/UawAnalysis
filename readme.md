@@ -261,5 +261,6 @@ Todo 📌
 ====
 
 - [ ] Find alternative measures to quantify the cost of living accross campuses (e.g., CPI, 2BDR)
+- [ ] Find distribution that best fits the yearly change in cost of living.
 - [ ] Compare local v. standardized adjusted cost of living
 
